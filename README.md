@@ -5,7 +5,7 @@ This project leverages machine learning and data visualization techniques to pre
 ## Features
 - **Dropout Rate Prediction:** 
   - Developed a Quantile Gradient Boosting Regressor using `sklearn` to predict dropout rates based on class enrollment.
-  - Improved the model’s performance from an R² score of 0.04 using linear regression to 0.388 using the boosting regressor.
+  - Improved the model’s performance from an R² score of 0.04 using linear regression to 0.56 using the boosting regressor.
   
 - **Data Scraping and Cleaning:** 
   - Scraped data of 950+ courses using `Selenium` and `BeautifulSoup`.
